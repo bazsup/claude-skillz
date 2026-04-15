@@ -12,9 +12,9 @@ A custom Claude Code skill marketplace. Add it once, install any skill on demand
 
 ### Available skills
 
-| Skill | Description |
-|-------|-------------|
-| `tactical-ddd` | Design, refactor, and review code using tactical domain-driven design principles |
+| Skill | Description | Credits |
+|-------|-------------|---------|
+| `tactical-ddd` | Design, refactor, and review code using tactical domain-driven design principles | Based on [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz/blob/main/tactical-ddd/SKILL.md) |
 
 ### Install a skill
 
