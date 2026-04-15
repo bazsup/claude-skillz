@@ -1,0 +1,11 @@
+{
+  "name": "tactical-ddd",
+  "version": "1.0.0",
+  "description": "Design, refactor, and review code using tactical domain-driven design principles",
+  "author": {
+    "name": "bazsup"
+  },
+  "repository": "https://github.com/bazsup/claude-skillz",
+  "license": "MIT",
+  "keywords": ["ddd", "domain-driven-design", "software-engineering"]
+}

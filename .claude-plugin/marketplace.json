@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skillz",
+  "description": "A collection of Claude Code skills covering DDD and software engineering practices",
+  "owner": {
+    "name": "bazsup"
+  },
+  "plugins": [
+    {
+      "name": "tactical-ddd",
+      "description": "Design, refactor, and review code using tactical domain-driven design principles",
+      "category": "development",
+      "source": "./plugins/tactical-ddd",
+      "homepage": "https://github.com/bazsup/claude-skillz"
+    }
+  ]
+}
