@@ -1,6 +1,6 @@
 ---
 name: tactical-ddd
-description: "Design, refactor, analyze, and review code by applying the principles and patterns of tactical domain-driven design. Triggers on: domain modeling, aggregate design, 'entity', 'value object', 'repository', 'bounded context', 'domain event', 'domain service', code touching domain/ directories, rich domain model discussions."
+description: Design, refactor, and review code using tactical domain-driven design principles. Triggers on domain modeling, aggregate design, entities, value objects, repositories, bounded contexts, domain events, domain services, and code in domain directories.
 ---
 
 # Tactical DDD
