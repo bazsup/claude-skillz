@@ -1,6 +1,6 @@
 {
   "name": "tactical-ddd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design, refactor, and review code using tactical domain-driven design principles",
   "author": {
     "name": "bazsup"
